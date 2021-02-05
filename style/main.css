@@ -1,0 +1,81 @@
+*{
+	margin: 0px;
+	padding: 0px;	
+}
+
+.corpo{
+	margin: 20px auto 20px auto;
+	border: 1px solid black;
+	width: 700px;
+	text-align: center;
+}
+
+.rodape{
+	font: bold 9px tahoma;
+	color: white;
+	background-color: rgb(50,50,50);
+	padding: 10px;
+	margin-top: 30px;
+}
+
+.rodape a:link{color: white; text-decoration:none}
+.rodape a:visited{color: white}
+.rodape a:hover{color: yellow}
+.rodape a:active{color: white}
+
+
+.logotipo{
+	margin: 20px auto 20px auto;
+}
+
+input[type="submit"]{
+	margin: 10px;
+	width: 120px;
+	padding: 5px;
+}
+
+#h2_editor, #h2_lista_documentos{
+	font: bold 18px tahoma;
+	color: blue;
+	padding: 20px;
+}
+
+.nome_documento{
+	background-color: rgb(220,220,220);
+	font: 12px tahoma;
+	text-align: center;
+	padding: 3px;
+	margin-bottom: 20px
+}
+
+.nome_documento span{
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.gravado_sucesso{
+	width: 300px;
+	padding: 10px;
+	background-color: rgb(150,255,150);
+	margin: 30px auto 30px auto;
+}
+
+.ficheiro{
+	font: 12px tahoma;
+	color: black;
+	text-align: left;
+	padding: 10px;
+	width: 600px;
+	border-bottom: 1px solid rgb(200,200,200);
+	}
+
+#nenhum_documento{
+	font: 10px tahoma;
+	margin: 30px;
+}
+
+.corpo_lista{
+	width: 650px;
+	margin: 20px auto 20px auto;
+}
+
