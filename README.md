@@ -5,6 +5,7 @@
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-rodar">Como rodar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;
   </p>
 <p align="center">
@@ -25,10 +26,17 @@
 Esse projeto foi desenvolvido com a seguinte tecnologia:
 
 - [Xampp](https://www.apachefriends.org/pt_br/index.html)
+- [PHP 8.0.1](https://www.php.net/)
 
 ## 💻 Projeto
 
 O Editor Documentos é um ambiente criado para criação e edição de simples documentos de texto.
+
+## 👩🏿‍💻 Como rodar
+
+- Clone o projeto.
+- ative o Apache
+- acesse http://localhost
 
 ## 🤔 Como contribuir
 
